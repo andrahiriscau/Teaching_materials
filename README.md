@@ -1,5 +1,5 @@
 # Teaching_materials
 
-[Group Project](https://andrahiriscau.github.com/Teaching_materials/Group_project.html)
+[Group Project](https://andrahiriscau.github.io/Teaching_materials/Group_project.html)
 
 
